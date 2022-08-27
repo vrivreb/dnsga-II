@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Rivera-Rebolledo"
+  given-names: "Vicente"
+title: "Improving solution diversity on NSGA-II for multi-objective clustering problems - Supplementary Material"
+version: 1.0.0
+date-released: 2022-08-27
+url: "https://github.com/vrivreb/dnsga-Il"
